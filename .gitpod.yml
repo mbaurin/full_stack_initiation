@@ -19,3 +19,4 @@ github:
     master: true
     branches: true
     pullRequests: true
+    

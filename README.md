@@ -1,4 +1,4 @@
-Todos Full Stack Website Mini Project
+# Todos Full Stack Website Mini Project
 
 It is a simple Todos website where you can : 
   - ADD tasks

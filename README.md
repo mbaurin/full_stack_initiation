@@ -6,4 +6,9 @@ It is a simple Todos website where you can :
   - CHECK them when they are done
   - DELETE them
 
+The goal of this project was to :
+  - Build a web application
+  - Build a working databse for this application
+  - And then deploy it
+
 The application is available here : https://full-stack-initiation.vercel.app/
